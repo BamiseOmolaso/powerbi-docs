@@ -262,6 +262,7 @@ The following scenarios don't support opening the data model for a semantic mode
 * Semantic models that have a live connection.
 * Semantic models migrated from Azure Analysis Services (AAS).
 * Not all semantic models in Pro workspaces are currently supported in UAE North.
+* Semantic models in Pro workspaces are currently not supported in South Africa North.
 
 To see which limitation is preventing you from opening your data model, hover over the **Open data model** button in the semantic model details page. This displays a tooltip indicating which limitation is causing the **Open data model** button to be disabled.
 
